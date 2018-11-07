@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Orel",
+    "temperature": 5,
+    "wind_speed": 3,
+    "pressure": 765
+  },
+  {
+    "name": "Sochi",
+    "temperature": 15,
+    "wind_speed": 0.3,
+    "pressure": 743
+  },
+  {
+    "name": "London",
+    "temperature": 13,
+    "wind_speed": 9,
+    "pressure": 740
+  },
+  {
+    "name": "Paris",
+    "temperature": 11,
+    "wind_speed": 3,
+    "pressure": 732
+  },
+  {
+    "name": "Kiev",
+    "temperature": 4,
+    "wind_speed": 6,
+    "pressure": 758
+  },
+  {
+    "name": "Oslo",
+    "temperature": -3,
+    "wind_speed": 2,
+    "pressure": 739
+  }
+]
