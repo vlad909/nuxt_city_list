@@ -5,7 +5,7 @@
   "author": "Vladislav Gushchin <vladislav.g@cronix.ms>",
   "private": true,
   "scripts": {
-    "dev": "npm run dev",
+    "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
