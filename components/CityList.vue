@@ -40,7 +40,7 @@
   </div>
 </template>
 <script>
-  import list from '../data'
+  import list from '../data.json'
   import PageLimit from './Pages'
 
   export default {
